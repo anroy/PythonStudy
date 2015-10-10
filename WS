@@ -1,0 +1,6 @@
+<NotepadPlus>
+    <Project name="Tutorial">
+        <File name="hello.py" />
+        <File name="version.py" />
+    </Project>
+</NotepadPlus>
