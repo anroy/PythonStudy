@@ -17,6 +17,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Arka 2015/10/12
+__pycache__
+WS
+
 # =========================
 # Operating System Files
 # =========================
