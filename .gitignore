@@ -18,8 +18,9 @@ $RECYCLE.BIN/
 *.lnk
 
 # Arka 2015/10/12
-__pycache__
+__pycache__/
 WS
+Installing/
 
 # =========================
 # Operating System Files
