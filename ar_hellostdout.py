@@ -1,3 +1,3 @@
 #! python
 import sys
-sys.stdout.write("Hello using stdout")
+sys.stdout.write("Hello using stdout \n")
