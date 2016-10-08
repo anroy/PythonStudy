@@ -22,6 +22,9 @@ __pycache__/
 WS
 Installing/
 
+# Arka 2016/10/08
+*.ipynb
+
 # =========================
 # Operating System Files
 # =========================
