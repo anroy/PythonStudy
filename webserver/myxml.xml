@@ -1,0 +1,195 @@
+﻿<NPCQL version="1.0" responseType="Counts" returnCode="200" strategyUsed="1" strategyCount="1"   >
+  <Counts totalCount="151" queryCount="151">
+    <Behavior>
+      <Value count="26" uid="352356,352426,352433,352427,353868,352391,353863,353883,353870,352432,352428,353869,352438,354402,353183,354375,354380,354383,352417,354331,354345,354346,354387,354403,354197,354203">StativeBehavior-Maintain</Value>
+      <Value count="1" uid="352506">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Warm</Value>
+      <Value count="1" uid="353005">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-OpenClose-Close</Value>
+      <Value count="3" uid="353761,353732,353212">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-OpenClose-Close-Lock</Value>
+      <Value count="2" uid="352668,352666">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Stop</Value>
+      <Value count="2" uid="352990,353485">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-OpenClose-Open</Value>
+      <Value count="2" uid="353248,354104">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-RemoveInstall-Install</Value>
+      <Value count="3" uid="353249,353268,352671">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-RemoveInstall-Remove</Value>
+      <Value count="1" uid="353722">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Submit</Value>
+      <Value count="2" uid="354035,353727">ActiveBehavior-PhysicalBehavior-ActionBehavior-Move-Return</Value>
+      <Value count="2" uid="354133,354131">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Recline</Value>
+      <Value count="3" uid="352507,353733,352366">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Equip-Wear</Value>
+      <Value count="11" uid="354402,354375,354380,354383,354331,354345,354346,354387,354403,354197,354203">ActiveBehavior-PhysicalBehavior-ActionBehavior-Lit</Value>
+      <Value count="1" uid="352655">ActiveBehavior-PhysicalBehavior-ActionBehavior-Protect</Value>
+      <Value count="2" uid="352389,354135">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Change-Decrease</Value>
+      <Value count="5" uid="353978,353729,352408,353724,352407">ActiveBehavior-PhysicalBehavior-AchievementBehavior-Operate</Value>
+      <Value count="14" uid="353212,353429,353265,352798,353210,353336,353341,353342,353458,353286,353311,353428,353979,353983">ActiveBehavior-PhysicalBehavior-ActionBehavior-Display</Value>
+      <Value count="1" uid="352666">ActiveBehavior-PhysicalBehavior-ActionBehavior-Move-Reverse</Value>
+      <Value count="4" uid="353023,353363,353464,352468">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Check-Inspections</Value>
+      <Value count="1" uid="353023">StativeBehavior-Sit</Value>
+      <Value count="5" uid="353429,352417,354403,353428,352497">ActiveBehavior-PhysicalBehavior-ActionBehavior-StepOn</Value>
+      <Value count="19" uid="353265,353840,354271,352589,352896,353030,353153,354140,353361,352358,353979,353453,352404,352524,354139,353723,352997,353163,353169">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Change</Value>
+      <Value count="2" uid="353489,353728">ActiveBehavior-MentalBehavior-Recall-Memory</Value>
+      <Value count="7" uid="353882,352988,354168,352355,352650,354225,352997">ActiveBehavior-PhysicalBehavior-ActionBehavior-Use</Value>
+      <Value count="1" uid="353835">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Release</Value>
+      <Value count="1" uid="353820">Katai</Value>
+      <Value count="4" uid="354280,352644,353066,354225">ActiveBehavior-PhysicalBehavior-ActionBehavior-Control</Value>
+      <Value count="1" uid="352403">ActiveBehavior-PhysicalBehavior-AchievementBehavior-Choose</Value>
+      <Value count="1" uid="353068">ActiveBehavior-PhysicalBehavior-TechnicalBehavior-Play</Value>
+      <Value count="1" uid="353205">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-RemoveInstall</Value>
+      <Value count="3" uid="354025,353898,353902">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Change-Set-Reset</Value>
+      <Value count="1" uid="354318">StativeBehavior-Sway</Value>
+      <Value count="2" uid="352379,352380">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Store</Value>
+      <Value count="3" uid="354000,353728,353983">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-Change-Set</Value>
+      <Value count="1" uid="352642">ActiveBehavior-PhysicalBehavior-AchievementBehavior-Accept</Value>
+      <Value count="1" uid="353093">ActiveBehavior-PhysicalBehavior-ActionBehavior-Move-Scroll</Value>
+      <Value count="1" uid="353428">ActiveBehavior-PhysicalBehavior-AchievementBehavior-Start</Value>
+      <Value count="1" uid="352358">ActiveBehavior-PhysicalBehavior-ActionBehavior-Control-Drive</Value>
+      <Value count="2" uid="352408,352407">ActiveBehavior-PhysicalBehavior-ActionBehavior-Travel</Value>
+      <Value count="1" uid="354352">ActiveBehavior-PhysicalBehavior-AccomplishmentBehavior-OpenClose</Value>
+    </Behavior>
+    <Part>
+      <Value count="14" uid="352356,352391,352507,353268,353732,354210,352389,354380,353733,352366,353729,353309,353449,353734">Interior-SupplementalRestraintSystem-Belt-SeatBelt</Value>
+      <Value count="4" uid="352426,352433,353265,353458">Interior-Gauge-Monitor-InstrumentDisplay</Value>
+      <Value count="8" uid="352427,352610,353998,352999,353978,354000,353979,353983">Interior-Gauge-Monitor-InstrumentDisplay-InformationDisplayControls</Value>
+      <Value count="7" uid="353868,353863,353883,352432,352428,353869,353173">Interior</Value>
+      <Value count="14" uid="353870,352438,353489,353814,352357,354131,354280,352358,353728,352408,353453,353723,354352,352407">Interior-Seat</Value>
+      <Value count="1" uid="352976">Interior-Visor</Value>
+      <Value count="21" uid="352665,352668,352866,352865,352655,352666,352589,353030,353882,353286,353311,352906,353109,353093,353361,352660,352667,353466,353902,352404,352524">Interior-Gauge-Monitor</Value>
+      <Value count="4" uid="353875,354035,352798,354025">Interior-Gauge-TripMeter</Value>
+      <Value count="5" uid="354134,353735,352355,352403,354104">Interior-Seat-ChildRestraint</Value>
+      <Value count="2" uid="352432,354352">Exterior-Window</Value>
+      <Value count="7" uid="352506,353761,353212,354271,354383,353820,353066">Interior-SteeringWheel</Value>
+      <Value count="1" uid="353005">Interior-GloveBox</Value>
+      <Value count="2" uid="352990,352650">Interior-Seat-Armrest</Value>
+      <Value count="6" uid="353248,353249,353153,353205,353163,353169">Interior-Seat-HeadRestraint</Value>
+      <Value count="5" uid="353722,354133,354143,354140,354139">Interior-Seat-PowerSeat</Value>
+      <Value count="11" uid="352553,353840,353835,353834,352420,354331,354345,354346,354197,354203,353898">Interior-Gauge</Value>
+      <Value count="3" uid="353499,352988,352997">Interior-CupHolder</Value>
+      <Value count="4" uid="352383,354375,354054,354055">Interior-SupplementalRestraintSystem-Airbag</Value>
+      <Value count="4" uid="353899,353023,354135,354054">Interior-Seat-DriverSeat</Value>
+      <Value count="2" uid="352382,352379">Interior-SupplementalRestraintSystem-Airbag-Side</Value>
+      <Value count="1" uid="354402">Interior-Gauge-EngineCoolantTemperatureGauge</Value>
+      <Value count="6" uid="353183,353429,352468,353068,354318,353428">Interior-Pedal-BrakePedal</Value>
+      <Value count="1" uid="352896">Interior-Gauge-Clock</Value>
+      <Value count="1" uid="353485">Interior-Console</Value>
+      <Value count="2" uid="353727,353724">Interior-Seat-Backrest</Value>
+      <Value count="1" uid="352671">Interior-Tray</Value>
+      <Value count="2" uid="353363,353464">Interior-Connection</Value>
+      <Value count="1" uid="354168">Interior-Drawers</Value>
+      <Value count="3" uid="352644,352417,352497">Interior-Pedal-GasPedal</Value>
+      <Value count="2" uid="353210,354309">Interior-Gauge-TripComputer</Value>
+      <Value count="1" uid="353336">Interior-Gauge-Odometer</Value>
+      <Value count="2" uid="353341,353251">Interior-Gauge-Tachometer</Value>
+      <Value count="1" uid="353342">Interior-Gauge-Speedometer</Value>
+      <Value count="1" uid="352380">Interior-SupplementalRestraintSystem-Airbag-Curtain</Value>
+      <Value count="1" uid="352642">Interior-Floor</Value>
+      <Value count="1" uid="354140">Interior-Seat-LumbarSupport</Value>
+      <Value count="1" uid="354387">Interior-Gauge-Thermometer</Value>
+      <Value count="1" uid="354403">Interior-Pedal</Value>
+      <Value count="2" uid="352660,353466">DisplayScreen-View</Value>
+      <Value count="1" uid="352667">DisplayScreen-EndingView-WideView</Value>
+      <Value count="1" uid="354055">Interior-Seat-PassengerSeat</Value>
+      <Value count="1" uid="354225">Interior-Seat-ChildRestraint-TetherStrap</Value>
+      <Value count="1" uid="352407">Mirror-RearViewMirror</Value>
+    </Part>
+    <SentenceType>
+      <Value count="85" uid="352356,352426,352433,352427,353863,353883,353870,352976,352665,353875,354134,352432,352506,353005,353761,352668,352990,353248,353249,353722,354035,354133,352507,353268,353732,352866,354143,354210,352999,352865,352655,352389,353173,353978,353212,352666,353023,353429,353265,353489,353840,354271,352589,352896,353030,353882,353814,353485,353835,354131,353153,353727,354135,353733,353834,352642,353066,353286,353311,354140,353093,353361,353729,352660,352667,353466,353428,352358,353728,353898,353979,353983,353902,352408,354225,353453,352404,352524,354139,353723,354352,353163,353169,353724,352407">Procedure</Value>
+      <Value count="22" uid="353868,352391,352428,353869,352438,352383,353899,352382,353998,352988,354168,354280,352355,352403,352644,352650,353205,354104,354318,352366,352417,352997">Recommendation</Value>
+      <Value count="35" uid="352553,353499,352610,354402,353183,354375,354380,352357,354383,352671,353363,352468,352798,353068,353210,353336,353341,353342,353458,354000,353251,354309,352420,353109,354331,354345,354346,354387,354403,354197,354203,353309,353449,353734,352497">Information</Value>
+      <Value count="1" uid="353735">Time</Value>
+      <Value count="5" uid="353464,352379,352380,354054,354055">Location</Value>
+      <Value count="3" uid="353820,354025,352906">Cause</Value>
+    </SentenceType>
+    <Term>
+      <Value count="1" uid="353863">GeneralTerm-MaterialNoun-Materials-Vinyl</Value>
+      <Value count="1" uid="353883">GeneralTerm-MaterialNoun-Materials-Cloth</Value>
+      <Value count="4" uid="353870,353869,352438,353814">GeneralTerm-MaterialNoun-Materials-Leather</Value>
+      <Value count="1" uid="352428">GeneralTerm-MaterialNoun-Materials-Resin</Value>
+      <Value count="1" uid="352655">GeneralTerm-CommonNoun-Object-Obstacle</Value>
+      <Value count="1" uid="352389">GeneralTerm-AbstractNoun-Stain</Value>
+      <Value count="1" uid="353173">GeneralTerm-MaterialNoun-Gas-Fumes</Value>
+      <Value count="1" uid="354387">GeneralTerm-MaterialNoun-Fluid-Beverage-Water</Value>
+    </Term>
+    <Property>
+      <Value count="1" uid="352438">GeneralProperty-MotionProperty-Frequency</Value>
+      <Value count="1" uid="353173">GeneralProperty-SensuousProperty-Odors</Value>
+      <Value count="4" uid="353489,354271,353728,353979">GeneralProperty-PositionalProperty-Position</Value>
+      <Value count="2" uid="353840,352524">GeneralProperty-VisualProperty-Brightness</Value>
+      <Value count="9" uid="354375,354380,354331,354345,354346,354387,354403,354197,354203">GeneralProperty-VisualProperty-Symbol-Mark</Value>
+      <Value count="1" uid="352589">GeneralProperty-NumericalProperty-Size</Value>
+      <Value count="1" uid="352896">GeneralProperty-DateTimeProperty-Time</Value>
+      <Value count="1" uid="353030">GeneralProperty-Standard-NearFieldCommunicationStandard-Bluetooth</Value>
+      <Value count="3" uid="353882,353898,353902">ProductProperty-CarProperty-FuelEconomy</Value>
+      <Value count="1" uid="353251">GeneralProperty-PositionalProperty-Location-Zones-StripeZone</Value>
+      <Value count="1" uid="354309">GeneralProperty-NumericalProperty-Length-Distance-CruiseDistance</Value>
+      <Value count="1" uid="352417">GeneralProperty-MotionProperty-Speed</Value>
+      <Value count="1" uid="352358">HumanProperty-Posture</Value>
+      <Value count="1" uid="353898">GeneralProperty-MathematicalProperty-Average</Value>
+      <Value count="2" uid="353983,353453">GeneralProperty-NumericalProperty-Angle</Value>
+      <Value count="1" uid="353902">Information-Data</Value>
+      <Value count="1" uid="352404">GeneralProperty-Quality-ImageQuality</Value>
+      <Value count="1" uid="354139">GeneralProperty-NumericalProperty-Size-Height</Value>
+    </Property>
+    <Value>
+      <Value count="1" uid="354402">GeneralPropertyValue-VisualValue-ColorValue-Blue</Value>
+      <Value count="5" uid="352866,353109,352660,352404,352524">GeneralPropertyValue-PositionalValue-Side</Value>
+      <Value count="2" uid="354143,354210">GeneralPropertyValue-DegreeValue-HighLow-High</Value>
+      <Value count="3" uid="352999,353834,352906">GeneralPropertyValue-DegreeValue-ClearVague-Vague</Value>
+      <Value count="4" uid="354375,354380,352420,354387">GeneralPropertyValue-VisualValue-ColorValue-Red</Value>
+      <Value count="1" uid="353814">GeneralPropertyValue-ConditionValue-DryWet-Wet</Value>
+      <Value count="1" uid="354383">GeneralPropertyValue-VisualValue-SymbolValue-MarkValue-Exclaim</Value>
+      <Value count="2" uid="354383,354331">GeneralPropertyValue-VisualValue-ColorValue-Orange</Value>
+      <Value count="1" uid="353485">GeneralPropertyValue-DegreeValue-LargeSmall-Large</Value>
+      <Value count="2" uid="353835,353834">GeneralPropertyValue-VisualValue-BrightnessValue-Shady</Value>
+      <Value count="3" uid="354131,354135,353723">CommonValue-AutomaticManual-Manual</Value>
+      <Value count="4" uid="353153,352667,352408,354139">GeneralPropertyValue-PositionalValue-FrontBack-Front</Value>
+      <Value count="6" uid="353727,354225,353453,353163,353169,353724">GeneralPropertyValue-PositionalValue-FrontBack-Back</Value>
+      <Value count="1" uid="353733">HumanValue-HumanConditionValue-Pregnant</Value>
+      <Value count="3" uid="354345,354403,354197">GeneralPropertyValue-VisualValue-ColorValue-Green</Value>
+      <Value count="2" uid="354346,354203">GeneralPropertyValue-VisualValue-ColorValue-White</Value>
+      <Value count="1" uid="353466">GeneralPropertyValue-PositionalValue-TopBottom-Top</Value>
+      <Value count="2" uid="354197,354203">GeneralPropertyValue-VisualValue-SymbolValue-MarkValue-Arrow</Value>
+      <Value count="1" uid="353723">GeneralPropertyValue-PositionalValue-FrontBack</Value>
+      <Value count="1" uid="353163">GeneralPropertyValue-PositionalValue-Side-LeftRight</Value>
+      <Value count="1" uid="353169">GeneralPropertyValue-PositionalValue-Center</Value>
+      <Value count="1" uid="353724">GeneralPropertyValue-DateTimeValue-RelativeTimeValue-Soon</Value>
+    </Value>
+    <CarInfrastructure>
+      <Value count="1" uid="353183">Road-Hill</Value>
+    </CarInfrastructure>
+    <Feature>
+      <Value count="1" uid="353183">Fumi</Value>
+      <Value count="1" uid="352865">DrivingAssistance-BackGuideMonitor</Value>
+      <Value count="1" uid="353093">MultimediaFeature-Navigation-TouchscreenSystem</Value>
+      <Value count="1" uid="353361">Services-ExternalService-MazdaConnect</Value>
+      <Value count="2" uid="353729,353449">SafetyFeature-SafetyRestraints-Pretensioners</Value>
+      <Value count="1" uid="353309">SafetyFeature-SafetyRestraints-LoadLimiter</Value>
+      <Value count="1" uid="353734">SafetyFeature-LockingMode</Value>
+    </Feature>
+    <WordAttribute>
+      <Value count="3" uid="353978,352417,354352">Negation</Value>
+    </WordAttribute>
+    <Topic>
+      <Value count="3" uid="352357,352417,352497">Features</Value>
+    </Topic>
+    <Trouble>
+      <Value count="1" uid="352642">Accident-Crashed</Value>
+      <Value count="1" uid="353066">Fault</Value>
+    </Trouble>
+    <CarSupplies>
+      <Value count="1" uid="353286">Disc-DVD</Value>
+      <Value count="1" uid="353311">Disc-Cds</Value>
+    </CarSupplies>
+    <Performer>
+      <Value count="3" uid="354331,354345,354346">Vehicle</Value>
+    </Performer>
+  </Counts>
+  <debug>
+    <url_queries>
+<query><sql>SELECT agentVersionIndex from agent_version WHERE metaVersionID = 1000;</sql><result>AgentVersionIndex from metaVersionID:978</result><comment>normal</comment></query>
+<query><sql>SELECT criteriaIndex FROM criteria WHERE criteriaName=&apos;Behavior&apos;;</sql><result></result><comment>normal</comment></query>
+<query><sql>SELECT criteriaIndex FROM criteria WHERE criteriaName=&apos;Part&apos;;</sql><result></result><comment>normal</comment></query>
+<query><sql>SELECT * FROM criteria_value WHERE criteriaIndex=15;</sql><result></result><comment>&apos;criteria Value&apos; is abnormal!:Part_Interior-Seat-ChildRestraint-SupportBaseChildRestraint</comment></query>
+<query><sql>SELECT * FROM criteria_value WHERE criteriaIndex=5;</sql><result></result><comment>&apos;criteria Value&apos; is abnormal!:Part_Interior-Seat-ChildRestraint-SupportBaseChildRestraint</comment></query>
+<query><sql>SELECT knowledgeItemIndex,knowledgeNumber FROM knowledge_item WHERE ( activeForUsers = true AND knowledge_item.knowledgeItemIndex IN (SELECT knowledgeItemIndex FROM knowledge_samples WHERE knowledgeSampleIndex IN (SELECT DISTINCT sampleIndex FROM related_criteria WHERE (related_criteria.sampleIndex IN (SELECT sampleIndex FROM related_criteria WHERE criteriaIndex = 15 AND criteriaValueIndex= 21901))) ) AND knowledge_item.knowledgeItemIndex IN (SELECT knowledgeItemIndex FROM knowledge_item_to_version WHERE agentVersionIndex = 978) ) LIMIT 10000;</sql><result></result><comment>normal record count:429</comment></query>
+<query><sql>SELECT knowledgeItemIndex,knowledgeNumber FROM knowledge_item WHERE ( activeForUsers = true AND knowledge_item.knowledgeItemIndex IN (SELECT knowledgeItemIndex FROM knowledge_samples WHERE knowledgeSampleIndex IN (SELECT DISTINCT sampleIndex FROM related_criteria WHERE (related_criteria.sampleIndex IN (SELECT sampleIndex FROM related_criteria WHERE criteriaIndex = 5 AND (((criteriaValueIndex= 19408) OR (criteriaValueIndex= 19268) OR (criteriaValueIndex= 24736) OR (criteriaValueIndex= 19266) OR (criteriaValueIndex= 19334) OR (criteriaValueIndex= 19418) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 23860) OR (criteriaValueIndex= 19306) OR (criteriaValueIndex= 23855) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 19438) OR (criteriaValueIndex= 19440) OR (criteriaValueIndex= 23856) OR (criteriaValueIndex= 23596) OR (criteriaValueIndex= 23858) OR (criteriaValueIndex= 23857) OR (criteriaValueIndex= 23861) OR (criteriaValueIndex= 21701) OR (criteriaValueIndex= 19276) OR (criteriaValueIndex= 20508) OR (criteriaValueIndex= 19278) OR (criteriaValueIndex= 21643) OR (criteriaValueIndex= 21633) OR (criteriaValueIndex= 24867) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 24926) OR (criteriaValueIndex= 24907) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 21642) OR (criteriaValueIndex= 21663) OR (criteriaValueIndex= 24872) OR (criteriaValueIndex= 23833) OR (criteriaValueIndex= 21662) OR (criteriaValueIndex= 19629) OR (criteriaValueIndex= 24425) OR (criteriaValueIndex= 19624) OR (criteriaValueIndex= 19653) OR (criteriaValueIndex= 19623) OR (criteriaValueIndex= 19628) OR (criteriaValueIndex= 24752) OR (criteriaValueIndex= 19654) OR (criteriaValueIndex= 19466) OR (criteriaValueIndex= 19360) OR (criteriaValueIndex= 22310) OR (criteriaValueIndex= 19738) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 19238) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 19349) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 22319) OR (criteriaValueIndex= 20586) OR (criteriaValueIndex= 22677) OR (criteriaValueIndex= 22624) OR (criteriaValueIndex= 22347) OR (criteriaValueIndex= 21768) OR (criteriaValueIndex= 21758) OR (criteriaValueIndex= 19510) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 20506) OR (criteriaValueIndex= 20616) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 19109) OR (criteriaValueIndex= 24617) OR (criteriaValueIndex= 19859) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 24504) OR (criteriaValueIndex= 24744) OR (criteriaValueIndex= 24621) OR (criteriaValueIndex= 19248) OR (criteriaValueIndex= 19126) OR (criteriaValueIndex= 19164) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 20514) OR (criteriaValueIndex= 19836) OR (criteriaValueIndex= 20507) OR (criteriaValueIndex= 20509) OR (criteriaValueIndex= 20619) OR (criteriaValueIndex= 19339) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= -1) OR (criteriaValueIndex= 19837) OR (criteriaValueIndex= 20551) OR (criteriaValueIndex= 23835)))))) ) AND knowledge_item.knowledgeItemIndex IN (SELECT knowledgeItemIndex FROM knowledge_item_to_version WHERE agentVersionIndex = 978) ) LIMIT 10000;</sql><result></result><comment>normal record count:429</comment></query>
+    </url_queries>
+    <npadm_response>
+    </npadm_response>
+  </debug>
+</NPCQL>
