@@ -1,0 +1,57 @@
+# Python Development Environment
+
+Install additional Python packages if not installed yet.
+    numpy
+    pandas
+    mysql-connector-python
+    requests
+    lxml
+    xlrd
+    openpyxl
+
+Normally you can install packages with below command. If it fails, please google how to install them.
+
+> pip install <package name>
+
+
+# Create virtual environment
+
+1. Create virtual environment and install packages
+```
+On Mac - Use pip3
+$ cd C:\dev\PythonDev
+$ python3 -m venv pydevenv3
+$ source pydevenv3/bin/activate
+(pydevenv3) $ pip3 install jupyter
+```
+
+2. Exit from virtual environment
+```
+(pydevenv3) $ deactivate
+```
+
+3. Enter virtual env, and run Jupyter notebook
+```
+On Mac - Using python3
+$ cd C:\dev\PythonDev
+$ source pydevenv3/bin/activate
+(pydevenv3) $ jupyter notebook
+
+
+Exit from virtual environment
+```
+(pydevenv3) $ deactivate
+```
+
+Other Notes on Jupyter
+Try using pip -V (notice capital V)
+If you are running the virtual env. it'll show the path to the env.'s location.
+https://stackoverflow.com/questions/1871549/determine-if-python-is-running-inside-virtualenv
+
+Enable a password
+https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
+
+$ jupyter notebook password
+(pydevenv3) $ jupyter notebook password
+Enter password: pw
+Verify password: pw

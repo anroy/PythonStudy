@@ -1,0 +1,91 @@
+# Search CGI test tool
+
+Install additional Python packages if not installed yet.
+    numpy
+    pandas
+    mysql-connector-python
+    requests
+    lxml
+    xlrd
+    openpyxl
+
+Normally you can install packages with below command. If it fails, please google how to install them.
+
+> pip install <package name>
+
+
+See [this Confluence page](http://workflow.inago.com/confluence/x/EQFUBw) for basic information.
+
+## How to run tests on virtual environment
+
+1. Create virtual environment  
+(You only have to do this for the first time.)
+    1. Create virtual environment and install packages
+        ```
+			cd C:\dev\SearchCGITesting
+    		C> python -m venv scgitestenv
+    		SearchCGITesting> scgitestenv\scripts\activate
+    		(scgitestenv) SearchCGITesting> pip install -r scgitestenv.txt
+			```
+
+			On Mac - Used pip (not pip3) by mistake
+			$ python -m venv scgitestenv
+			$ source scgitestenv/bin/activate
+			(venv) $ pip install ipykernel
+			(venv) $ ipython kernel install --user --name=scgitestenv
+       https://anbasile.github.io/programming/2017/06/25/jupyter-venv/
+
+			On Mac - Use pip3
+			$ python3 -m venv scgitestenv3
+			$ source scgitestenv3/bin/activate
+			(venv) $ pip3 install jupyter
+
+		2. Exit from virtual environment
+			```
+    		(scgitestenv) SearchCGITesting> deactivate
+    		```
+
+2. Enter virtual env, and run Jupyter notebook
+			```
+			SearchCGITesting> scgitestenv\scripts\activate
+			(scgitestenv) SearchCGITesting> cd SemiAutoTestTools
+			(scgitestenv) SemiAutoTestTools> jupyter notebook
+			```
+			Or, you can just run below script.  
+			SearchCGITesting\runjupyter_venv.ps1
+
+			On Mac - Used pip (not pip3) by mistake
+			https://stackoverflow.com/questions/42648610/error-when-executing-jupyter-notebook-no-such-file-or-directory
+			https://packaging.python.org/tutorials/installing-packages/
+			https://jupyter.readthedocs.io/en/latest/projects/jupyter-command.html
+			source scgitestenv/bin/activate
+			(scgitestenv) SearchCGITesting> cd SemiAutoTestTools
+			(scgitestenv) SemiAutoTestTools> jupyter notebook
+
+			On Mac - Using python3
+			$ source scgitestenv3/bin/activate
+			(scgitestenv3) $ jupyter notebook
+
+
+			Exit from virtual environment
+			```
+			(scgitestenv3) $ deactivate
+			```
+
+3. Do testing on Jupyter notebook  
+(Follow the instruction.)
+
+Other Notes on Jupyter
+Try using pip -V (notice capital V)
+If you are running the virtual env. it'll show the path to the env.'s location.
+https://stackoverflow.com/questions/1871549/determine-if-python-is-running-inside-virtualenv
+
+Enable a password
+https://jupyter-notebook.readthedocs.io/en/stable/public_server.html
+
+$ jupyter notebook password
+
+(scgitestenv) C:\dev\SearchCGITesting\SemiAutoTestTools>jupyter notebook password
+Enter password: inago
+Verify password: inago
+[NotebookPasswordApp] Wrote hashed password to C:\Users\arka.roy\.jupyter\jupyter_notebook_config.json
